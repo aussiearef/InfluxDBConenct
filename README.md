@@ -7,5 +7,7 @@ and is related to a topic in the online course called [Grafana,Graphite and Stat
 Please make sure:
 
 1- You change your InlfuxDB host address in program.cs
+
 2- Change your database name to your database name
+
 3- Use measurements that suit you.
